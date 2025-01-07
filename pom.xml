@@ -17,12 +17,6 @@
   <scm>
     <developerConnection>scm:git:https://github.com/axonivy-market/${project.name}.git</developerConnection>
   </scm>
-  <properties>
-    <project.groupId>com.axonivy.connector.uipath</project.groupId>
-    <project.artifactId>ui-path-connector-modules</project.artifactId>
-    <project.name>ui-path-connector</project.name>
-    <project.version>12.0.1-SNAPSHOT</project.version>
-  </properties>
   <build>
     <pluginManagement>
       <plugins>
